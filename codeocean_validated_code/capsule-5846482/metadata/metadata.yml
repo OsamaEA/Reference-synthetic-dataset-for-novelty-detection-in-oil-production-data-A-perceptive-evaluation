@@ -1,0 +1,11 @@
+metadata_version: 1
+name: Reference synthetic-dataset for novelty detection in oil production data
+description: Producing Reference-Synthetic Dataset for novelty detection in oil production
+  data. It should be used as a reference for future work.
+authors:
+- name: Osama Abdelaziem
+  affiliations:
+  - name: AMAPETCO
+corresponding_contributor:
+  name: Osama Abdelaziem
+  email: osama.abdelaziem@gmail.com
