@@ -1,4 +1,4 @@
-Original UNISIM dataset is available on https://www.unisim.cepetro.unicamp.br/benchmarks/br/
+Original UNISIM dataset is available for public use on https://www.unisim.cepetro.unicamp.br/benchmarks/br/
 
 Citation for the used datasets:
 1. Avansi, G. D., & Schiozer, D. J. (2015). UNISIM-I: synthetic model for reservoir development and management applications. International Journal of Modeling and Simulation for the Petroleum Industry, 9(1), 21-30.
